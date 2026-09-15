@@ -1,5 +1,5 @@
 # ruxd
-a simple program that turns the contents of a file into hexadecimels bytes
+a simple program that displays the contents of a file as hexadecimels bytes
 
 
 # Installation
